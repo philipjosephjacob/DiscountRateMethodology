@@ -13,7 +13,7 @@ An abstract method specifies that a quote is produced by applying the methodolog
 A Bond is created purely as a vehicle to which to apply the main entity in the solution.
 
 A base abstract class Bond is defined with a few elementary properties such as identifiers and an IssueDate.
-From that we derive the notion of a bond with credit, namely a an abstract CorporateBond (ignore philosophical questions such as the existence of credit risk in sovereign issuance).
+From that we derive the notion of a bond with credit, namely an abstract CorporateBond (ignore philosophical questions such as the existence of credit risk in sovereign issuance).
 
 From CorporateBond two concrete classes are derived which model the cases of a bond with coupons and a Zero.
 
@@ -27,4 +27,4 @@ EntityFramework is used to persist Bonds and DiscountMethodologies. Certain othe
 
 To run the solution, run the unit test Kroll.Discounting.Tests
 
-The solution was build using Visual Studio 2026 Community Edition. Certain comments were generated using Co-pilot.
+The solution was built using Visual Studio 2026 Community Edition. Certain comments were generated using Co-pilot.
