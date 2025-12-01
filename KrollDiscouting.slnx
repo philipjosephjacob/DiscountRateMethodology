@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="KrollDiscounting.Tests/KrollDiscounting.Tests.csproj" />
+  <Project Path="KrollDiscouting/KrollDiscouting.csproj" />
+</Solution>

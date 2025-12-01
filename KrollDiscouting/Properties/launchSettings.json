@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KrollDiscouting": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
